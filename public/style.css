@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css?family=Alegreya+Sans+SC&display=swap');
+
+.btnFont {
+    font-size: 12px;
+    color: white;
+}
+
+.headerFont{
+    font-family: 'Alegreya Sans SC', sans-serif;
+    font-size: 72px;
+}
+
+.bodyFont{}
+
+.wellStyle {
+    display:grid;
+    margin: 10px;
+    padding: 5px;
+}
